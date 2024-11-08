@@ -2,4 +2,4 @@ this is my first file and first changes
 
 adde som etext when in branch 1
 
-brach 1 eating ,erge conflict
+brach 1 eating ,erge conflict  
